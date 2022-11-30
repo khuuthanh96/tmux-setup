@@ -11,3 +11,6 @@ brew install tmux-mem-cpu-load
 ```
 git config --global url."git@github.com:".insteadOf "https://github.com/"
 ```
+
+## zsh theme powerlevel10k
+https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k
