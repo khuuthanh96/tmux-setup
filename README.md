@@ -2,10 +2,12 @@
 My tmux setup
 
 # Prerequisite
-Install [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) to display some information in tmux status line.
+Install [tmux-plugins-manager](https://github.com/tmux-plugins/tpm) 
 ```
-brew install tmux-mem-cpu-load
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
+
+Installing plugins: prefix + I
 
 ## git setup
 ```
