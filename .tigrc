@@ -3,7 +3,7 @@ bind status D !rm %(file)
 
 # THEME
 # General colors
-color default                       246         235
+color default                       default     default
 color cursor                        223         236
 color status                        default     default
 color title-focus                   default     default
