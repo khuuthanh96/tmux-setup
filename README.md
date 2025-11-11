@@ -21,5 +21,3 @@ https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel1
 ```
 sudo ln -s <path>/tmux-setup /home/user/.config/tmux
 ```
-```
-```
